@@ -1,0 +1,2 @@
+# administradorDeMusica
+El objetivo del proyecto es la implementación de una aplicación en Python para administrar y reproducir archivos de audio. Los archivos de audio con que va a trabajar esta aplicación son canciones. Se requerirá que implemente cuatro módulos, tres de ellos consisten en tipos abstractos de datos (TADs) y uno integra los TADs para hacer una aplicación que sirva para administrar y reproducir música.
